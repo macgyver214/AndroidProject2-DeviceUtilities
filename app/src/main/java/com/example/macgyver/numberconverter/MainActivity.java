@@ -37,7 +37,6 @@ public class MainActivity extends AppCompatActivity {
                 String convertedNum = converter.baseConvert();
 
                 if (convertedNum == null) {
-                    numberInput.setBackgroundColor();
                     Toast toast = Toast.makeText(MainActivity.this, R.string.toast_error, Toast.LENGTH_LONG);
                     toast.show();
                 }
