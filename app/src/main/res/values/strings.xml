@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NumberConverter</string>
+    <string name="title_text">Convert any number into the same number in a different base!</string>
+    <string name="number_hint">Number</string>
+    <string name="base_hint">Base</string>
+    <string name="title">Base Converter</string>
+    <string name="new_number_text">New Number</string>
+    <string name="new_base">New Base</string>
+    <string name="button_text">Convert</string>
+    <string name="toast_error">Unable to convert value! Make sure your number is valid in the base you are inputting.</string>
+</resources>
